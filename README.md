@@ -9,5 +9,6 @@
 
 - Laravel Framework (PHP)
 - Vue3 Composition API + Alpine.js
+- MySQL
 - TailwindCSS w/ Laravel Mix
 - ES Lint + Prettier
